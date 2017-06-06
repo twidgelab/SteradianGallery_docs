@@ -7,3 +7,6 @@ theme: jekyll-theme-midnight
 downloadPage: downloadPage
 issues_url: https://github.com/twidgelab/SteradianGallery_docs/issues
 zip_url: 
+
+gems:
+  - jemoji
