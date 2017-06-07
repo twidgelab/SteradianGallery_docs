@@ -3,16 +3,19 @@ layout: download
 ---
 # [](#header-1)Download Page
 
-:x: **download not yet available**
-I still need to work this out ~~and set up issues tracking page~~
+:gem: **Use the download link at the top right**
 
 
 #### current version 0.1.1
 :poultry_leg: Note on performance :poultry_leg: 
 
-I have tested this on 2 computers, Newish Asus laptop with GTX 1070 and fps seems pretty solid there, however the 970 in my home desktop is playable but less reliable.  I will look into optimising further, but until then any lesser card is not recommended
+I have tested this on 3 computers
 
-This version is set only to play on HTC Vive, but I think it will work on the Rift with touch controllers, it will just show the Vive controller.  I will try to test this soon  
+* GTX 1080Ti in graphics workstation, no surprises this works like crazy
+* GTX 1070 in laptop- Asus  GL502vs, fps seems pretty solid there
+* GTX 970 in my home desktop is playable but often 45fps.  I will look into optimising further, but until then any lesser card is not recommended
+
+This version has only been tested on HTC Vive, but I think it will work on the Rift with touch controllers (but will show the Vive controller).  I will try to test this soon and then update this page if changes are needed  
 
 Unzip the file, and double click the 'SteradianGallery.exe'
 
