@@ -3,7 +3,7 @@ layout: download
 ---
 # [](#header-1)Download Page
 
-:gem: **Use the download link at the top right**
+:gem: **Use the download link at the top right to download 340GB zip**
 
 
 #### current version 0.1.1
