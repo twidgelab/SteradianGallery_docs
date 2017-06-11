@@ -20,6 +20,8 @@ In the center room, where I had imagined I could make room scale installations o
 
 In the back room are 3 more figurative sculptures.
 
+[here is a video play through](https://youtu.be/oXEeSsjpbDQ)
+
 ![highresscreenshot00000](https://cloud.githubusercontent.com/assets/5624947/26772041/364c5466-4a17-11e7-8b65-920d5f4698c5.png)
 
 The photographs are from a series I called 'The Black Toys' made in 2007.  I had been collecting small, hand sized, plastic toys from thrift stores.  I painted these black and photographed them in groups.  For many of the photos, I filled them with cement and sunk them in a fish tank to make an atmospheric drama for them to exist in.  These digital photos were never printed.
